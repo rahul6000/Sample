@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 public class TestNGTest {
 
 
-    @Test(priority = 1)
+    @Test(priority = 3)
     void setup(){
         System.out.println("This is a setup");
 
